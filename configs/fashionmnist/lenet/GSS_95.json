@@ -1,0 +1,17 @@
+{
+  "exp_name": "fashionmnist_lenet_prune_ratio_95",
+  "network": "lenet",
+  "dataset": "fashionmnist",
+  "depth": 5,
+  "batch_size": 256,
+  "epoch": "120",
+  "learning_rate": "0.1",
+  "weight_decay": "1e-4",
+  "exception": "-1",
+  "iterations": 1,
+  "normalize": false,
+  "target_ratio": 0.95,
+  "pruner": "GCS",
+  "pruner_file": "GCS",
+  "samples_per_class": 10
+}
