@@ -1,4 +1,4 @@
-# Research On Few-Shot Learning on Network Pruning Sensitive to Gradient Coupling Flow
+# Gradient Coupled Flow: Performance Boosting On Network Pruning By Utilizing Implicit Loss Decrease
 
 ## Introduce
 
